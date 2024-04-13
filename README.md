@@ -13,7 +13,7 @@ $ bundle add pg_connections_terminate
 
 ## Usage
 
-Run like any Rails rake task.
+Run like any other Rails rake task:
 
 ```sh
 $ bundle exec bin/rails db:connections:terminate RAILS_ENV=test
